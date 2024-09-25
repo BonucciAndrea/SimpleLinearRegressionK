@@ -2,12 +2,19 @@
 One-variable linear regression, providing line-of-best fit, along with RSquared; written in Kona(K3). 
 
 Data is of the form: 
+
 y1
+
 x1
+
 y2
+
 x2
+
 y3
+
 x3
+
 ...
 
 
